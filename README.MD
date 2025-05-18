@@ -1,5 +1,5 @@
 # 2025.beam.ninjas
-BEAM ML &amp; Pandas Comparison 
+Apache BEAM  &amp; Pandas Comparison 
 
 # Prerequesities
 ```
